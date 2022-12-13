@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/fukudaum/nwl-ecoleta#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-pre-gyp": "^0.15.0",
     "nodemon": "^2.0.4",
     "nunjucks": "^3.2.1",
